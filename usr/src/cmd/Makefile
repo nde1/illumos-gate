@@ -56,7 +56,6 @@ COMMON_SUBDIRS=		\
 	allocate	\
 	availdevs	\
 	lp		\
-	perl		\
 	Adm		\
 	abi		\
 	adbgen		\
@@ -191,7 +190,6 @@ COMMON_SUBDIRS=		\
 	growfs		\
 	grpck		\
 	gss		\
-	hal		\
 	halt		\
 	head		\
 	hostid		\
@@ -228,7 +226,6 @@ COMMON_SUBDIRS=		\
 	kvmstat		\
 	last		\
 	lastcomm	\
-	latencytop	\
 	ldap		\
 	ldapcachemgr	\
 	lgrpinfo	\
@@ -307,7 +304,6 @@ COMMON_SUBDIRS=		\
 	pgrep		\
 	picl		\
 	plimit		\
-	policykit	\
 	pools		\
 	power		\
 	powertop	\
@@ -346,7 +342,6 @@ COMMON_SUBDIRS=		\
 	rm		\
 	rmdir		\
 	rmformat	\
-	rmmount		\
 	rmt		\
 	rmvolmgr	\
 	roles		\
@@ -438,8 +433,6 @@ COMMON_SUBDIRS=		\
 	valtools	\
 	vgrind		\
 	vi		\
-	volcheck	\
-	volrmmount	\
 	vrrpadm		\
 	vscan		\
 	vt		\
@@ -669,7 +662,6 @@ MSGSUBDIRS=		\
 	rm		\
 	rmdir		\
 	rmformat	\
-	rmmount		\
 	rmvolmgr	\
 	sasinfo		\
 	sbdadm		\
@@ -716,8 +708,6 @@ MSGSUBDIRS=		\
 	valtools	\
 	vgrind		\
 	vi		\
-	volcheck	\
-	volrmmount	\
 	vrrpadm		\
 	vscan		\
 	w		\
