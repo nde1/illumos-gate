@@ -341,9 +341,7 @@ COMMON_SUBDIRS=		\
 	renice		\
 	rm		\
 	rmdir		\
-	rmformat	\
 	rmt		\
-	rmvolmgr	\
 	roles		\
 	rpcbind		\
 	rpcgen		\
@@ -661,8 +659,6 @@ MSGSUBDIRS=		\
 	roles		\
 	rm		\
 	rmdir		\
-	rmformat	\
-	rmvolmgr	\
 	sasinfo		\
 	sbdadm		\
 	scadm		\
